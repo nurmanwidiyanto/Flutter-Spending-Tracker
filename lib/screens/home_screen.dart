@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:minimal_grocery/constants/app_colors.dart';
 import 'package:minimal_grocery/models/spending_category_model.dart';
 import 'package:minimal_grocery/widgets/price_text.dart';
-import 'package:minimal_grocery/widgets/search_bar.dart';
 import 'package:minimal_grocery/widgets/spending_category.dart';
 
 class HomeScreen extends StatelessWidget {
